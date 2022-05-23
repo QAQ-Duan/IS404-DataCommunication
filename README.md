@@ -1,7 +1,7 @@
 # IS404-DataCommunication
 Source code about SJTU IS404 exercise
 
-## winsock 
-five exercises about winsock
-## ns-3
-six labs about ns-3
+## lab1~5
+five labs about winsock, the filenames are functions.
+## ns3_lab2~6
+some labs about ns-3
